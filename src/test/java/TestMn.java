@@ -3,7 +3,7 @@ import org.junit.Test;
 
 public class TestMn {
     @Test
-    public void TestMan(){
+    public void Testmn(){
         Assert.assertTrue(true);
     }
 }

@@ -1,10 +1,11 @@
-public class Main {
-    public void main(String[] args) {
+public class pippo {
+    public static void main(String[] args) {
         //String a=System.getProperty("java.class.path");
         //System.out.println("Hello World!" + a); // Display the string.
-        this.stampa();
+        stampa();
     }
-    private void stampa(){
+    public static void stampa(){
+
         System.out.println("stampa23");
     }
 }
