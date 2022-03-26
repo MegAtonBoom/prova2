@@ -5,6 +5,6 @@ public class Main {
         this.stampa();
     }
     private void stampa(){
-        System.out.println("stampa");
+        System.out.println("stampa23");
     }
 }
